@@ -254,3 +254,4 @@ $userFirstName = $isLoggedIn ? explode(" ", $_SESSION["user_name"])[0] : "";
 <script src="script-v2.js"></script>
 </body>
 </html>
+
